@@ -1,0 +1,126 @@
+{
+  "edition": "en-US",
+  "schema_version": 2,
+  "withdrawn_dates": [],
+  "works": [
+    {
+      "id": "en-US-2026-05-04",
+      "date": "2026-05-04",
+      "edition": "en-US",
+      "theme_key": "morning-mist",
+      "image_path": "https://huntersjq.github.io/zen-content/en-US/2026-05-04/image.jpg",
+      "image_sha256": "bbd9f24829194753461a5531bfb7d59e320fed852d52e99435432fa09e14f64a",
+      "audio_path": "https://huntersjq.github.io/zen-content/_shared/forest.m4a",
+      "audio_sha256": "ff15418c51ac8e96e9af4f46adc7ba04620d5db9cf21d028646b3800cf0d5009",
+      "text_lines": [
+        "Look — the morning",
+        "settles on the field, quietly."
+      ],
+      "duration_seconds": 180,
+      "image_credit": "Photo by Laura Chouette on Unsplash",
+      "audio_credit": "Forest ambience from Internet Archive (various-bird-sounds)"
+    },
+    {
+      "id": "en-US-2026-05-05",
+      "date": "2026-05-05",
+      "edition": "en-US",
+      "theme_key": "rain-on-old-pond",
+      "image_path": "https://huntersjq.github.io/zen-content/en-US/2026-05-05/image.jpg",
+      "image_sha256": "9b61961732b26a6f0e786010cff31a118e7dc124c162bba270f5d45625f470a4",
+      "audio_path": "https://huntersjq.github.io/zen-content/_shared/rain.m4a",
+      "audio_sha256": "84f75d5f31e5e31a3fb8a55dd6b2af2380d774a645696a6df264eb2ab0e633a8",
+      "text_lines": [
+        "The slant rain",
+        "sounds nothing against this hour."
+      ],
+      "duration_seconds": 180,
+      "image_credit": "Photo by Levi XU on Unsplash",
+      "audio_credit": "Rain field recording from Internet Archive (relaxingrainsounds)"
+    },
+    {
+      "id": "en-US-2026-05-06",
+      "date": "2026-05-06",
+      "edition": "en-US",
+      "theme_key": "lone-boat",
+      "image_path": "https://huntersjq.github.io/zen-content/en-US/2026-05-06/image.jpg",
+      "image_sha256": "5de866268be77393ef75929724f944d1b59b28804d000507aff2958bff320839",
+      "audio_path": "https://huntersjq.github.io/zen-content/_shared/forest.m4a",
+      "audio_sha256": "ff15418c51ac8e96e9af4f46adc7ba04620d5db9cf21d028646b3800cf0d5009",
+      "text_lines": [
+        "A small boat",
+        "takes the river wherever it likes."
+      ],
+      "duration_seconds": 180,
+      "image_credit": "Photo by Walter Martin on Unsplash",
+      "audio_credit": "Forest ambience from Internet Archive (various-bird-sounds)"
+    },
+    {
+      "id": "en-US-2026-05-07",
+      "date": "2026-05-07",
+      "edition": "en-US",
+      "theme_key": "ink-on-paper",
+      "image_path": "https://huntersjq.github.io/zen-content/en-US/2026-05-07/image.jpg",
+      "image_sha256": "f28e2e9b8d683f92244fe06d0709abeec045a5a5d3882043be14566ef05a0616",
+      "audio_path": "https://huntersjq.github.io/zen-content/_shared/ambient-drone.m4a",
+      "audio_sha256": "769cb3fe46f298007f4424bd59cd0289042059570738476e7a12b97387642212",
+      "text_lines": [
+        "One stroke is enough",
+        "for the page to remember."
+      ],
+      "duration_seconds": 180,
+      "image_credit": "Photo by Sebastian Schuster on Unsplash",
+      "audio_credit": "Ambient drone from Internet Archive (MeditativeMixRecentFavoriteAmbientAndDrones)"
+    },
+    {
+      "id": "en-US-2026-05-08",
+      "date": "2026-05-08",
+      "edition": "en-US",
+      "theme_key": "candle-late",
+      "image_path": "https://huntersjq.github.io/zen-content/en-US/2026-05-08/image.jpg",
+      "image_sha256": "e8a7e948f32a2406ef9beed2ae59e3d3779067f4135cc3021e68154638bd0861",
+      "audio_path": "https://huntersjq.github.io/zen-content/_shared/ambient-drone.m4a",
+      "audio_sha256": "769cb3fe46f298007f4424bd59cd0289042059570738476e7a12b97387642212",
+      "text_lines": [
+        "The candle stays",
+        "longer than I thought the night."
+      ],
+      "duration_seconds": 180,
+      "image_credit": "Photo by Ján Čorba on Unsplash",
+      "audio_credit": "Ambient drone from Internet Archive (MeditativeMixRecentFavoriteAmbientAndDrones)"
+    },
+    {
+      "id": "en-US-2026-05-09",
+      "date": "2026-05-09",
+      "edition": "en-US",
+      "theme_key": "moon-over-pine",
+      "image_path": "https://huntersjq.github.io/zen-content/en-US/2026-05-09/image.jpg",
+      "image_sha256": "eec7895b2072b88f6886e4020ceb33ee120eaf5c71825fdee9015485dc7c877e",
+      "audio_path": "https://huntersjq.github.io/zen-content/_shared/forest.m4a",
+      "audio_sha256": "ff15418c51ac8e96e9af4f46adc7ba04620d5db9cf21d028646b3800cf0d5009",
+      "text_lines": [
+        "The moon between branches",
+        "does not need to be named."
+      ],
+      "duration_seconds": 180,
+      "image_credit": "Photo by Greg Rosenke on Unsplash",
+      "audio_credit": "Forest ambience from Internet Archive (various-bird-sounds)"
+    },
+    {
+      "id": "en-US-2026-05-10",
+      "date": "2026-05-10",
+      "edition": "en-US",
+      "theme_key": "fallen-blossom",
+      "image_path": "https://huntersjq.github.io/zen-content/en-US/2026-05-10/image.jpg",
+      "image_sha256": "f55e9432a772d23f35011484ed889491dd76da6e79319eed9ceeee8dd7979e52",
+      "audio_path": "https://huntersjq.github.io/zen-content/_shared/rain.m4a",
+      "audio_sha256": "84f75d5f31e5e31a3fb8a55dd6b2af2380d774a645696a6df264eb2ab0e633a8",
+      "text_lines": [
+        "Petals on the water —",
+        "they were never going to refuse the current."
+      ],
+      "duration_seconds": 180,
+      "image_credit": "Photo by Kouji Tsuru on Unsplash",
+      "audio_credit": "Rain field recording from Internet Archive (relaxingrainsounds)"
+    }
+  ]
+}
